@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.manmeet0589.twa",
+      "sha256_cert_fingerprints": [
+        "E2:25:E8:CB:04:9E:E0:E6:D8:EA:37:E9:23:87:36:06:64:C5:4B:1D:90:7E:14:B3:F0:B1:E8:F2:69:90:4B:05"
+      ]
+    }
+  }
+]
